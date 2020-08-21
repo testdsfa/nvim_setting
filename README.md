@@ -33,6 +33,6 @@ apt-get install clang
 
 ----
 Reference.
-https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/
-https://github.com/deoplete-plugins/deoplete-clang
-https://www.reddit.com/r/neovim/comments/49z356/cant_make_deoplete_work_with_deopleteclang/
+- https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/
+- https://github.com/deoplete-plugins/deoplete-clang
+- https://www.reddit.com/r/neovim/comments/49z356/cant_make_deoplete_work_with_deopleteclang/
